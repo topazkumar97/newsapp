@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 7838,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "The Week Magazine"
+    },
+    "author": "The Week Staff",
+    "title": "The electric-vehicle revolution",
+    "description": "Battery-powered cars and trucks are selling briskly. Will they soon rule the road? Here's everything you need to know:\nWhat's changed?\nElectric vehicles have become the hottest cars on the market. Demand for vehicles that run solely on batteries is so great t…",
+    "url": "https://theweek.com/business/1010328/the-electric-vehicle-revolution",
+    "urlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645133610/GettyImages-1075255522.jpg",
+    "publishedAt": "2022-02-19T10:52:09Z",
+    "content": "Battery-powered cars and trucks are selling briskly. Will they soon rule the road? Here's everything you need to know:\r\nWhat's changed?\r\nElectric vehicles have become the hottest cars on the market. … [+6110 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slate Magazine"
+    },
+    "author": "Aaron Mak",
+    "title": "How Many Simultaneous Scandals Can Elon Musk Survive?",
+    "description": "Even for the Tesla CEO, there are a shocking number of them right now.",
+    "url": "https://slate.com/technology/2022/02/elon-musk-scandals-fremont-neuralink-tesla-recall.html",
+    "urlToImage": "https://compote.slate.com/images/5a1454fa-a3ca-43f0-81f5-3bc1947af33d.jpeg?width=780&height=520&rect=6036x4024&offset=12x0",
+    "publishedAt": "2022-02-19T10:50:00Z",
+    "content": "Elon Musk is having a terrible February. At the moment, the Tesla and SpaceX CEO is facing scrutiny from three different government agencies, an animal-cruelty scandal, a car recall, a failed satelli… [+6572 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Motley Fool"
+    },
+    "author": "newsfeedback@fool.com (Katie Brockman)",
+    "title": "2 Reasons to Invest in Crypto -- And 1 Reason Not To",
+    "description": "Crypto could be lucrative, but is it right for you?",
+    "url": "https://www.fool.com/investing/2022/02/19/2-reasons-to-invest-in-crypto-and-1-reason-not-to/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/666512/bitcoin-symbol-made-from-numbers.jpg",
+    "publishedAt": "2022-02-19T10:45:00Z",
+    "content": "It's no secret that cryptocurrency is one of the hottest investments of the past year, but it's also incredibly divisive and controversial.\r\nWhile some believe crypto is a revolutionary technology wi… [+3607 chars]"
+    },
+    {
+    "source": {
+    "id": "news24",
+    "name": "News24"
+    },
+    "author": null,
+    "title": "News24.com | Musk donates satellite gear to reconnect Tonga",
+    "description": "Tonga says space entrepreneur and Tesla founder Elon Musk has donated 50 satellite terminals to help the volcano-damaged Pacific island reconnect with the world.",
+    "url": "https://www.news24.com/news24/Africa/News/musk-donates-satellite-gear-to-reconnect-tonga-20220219",
+    "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3101/0de61ef225ca4e9aaa580775e801f68e.jpg",
+    "publishedAt": "2022-02-19T10:39:36Z",
+    "content": "Tonga says space entrepreneur and Tesla founder Elon Musk has donated 50 satellite terminals to help the volcano-damaged Pacific island reconnect with the world.\r\nTonga's telecommunications system ha… [+1101 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "stabahriti@insider.com (Sam Tabahriti)",
+    "title": "The SEC pushes back after Elon Musk accused the agency of harassment and withholding $40 million in funds",
+    "description": "Elon Musk has accused the Securities and Exchange Commission of harassment but the regulator disagreed with the accusations.",
+    "url": "https://www.businessinsider.com/sec-pushes-back-elon-musk-accusations-harassment-2022-2",
+    "urlToImage": "https://i.insider.com/6210b761462ff20019c5d1f7?width=1200&format=jpeg",
+    "publishedAt": "2022-02-19T10:23:41Z",
+    "content": "The Securities and Exchange Commission (SEC) issued a letter to a federal judge following Elon Musk's accusations of the agency conducting \"endless, unfounded investigations\" into him and Tesla.\r\nThe… [+2168 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AutoExpress"
+    },
+    "author": "Auto Express",
+    "title": "Audi Q8 55 TFSI e vs Range Rover Sport P400e: 2022 twin test review",
+    "description": "Can plug-in hybrids fill the void left by diesel? We test PHEV versions of the Audi Q8 and Range Rover Sport to find out",
+    "url": "https://www.autoexpress.co.uk/audi/q8/357379/audi-q8-vs-range-rover-sport-2022-twin-test-review",
+    "urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645095641/autoexpress/2022/02/Audi Q8 vs Range Rover Sport PHEV-3.jpg",
+    "publishedAt": "2022-02-19T10:00:53Z",
+    "content": "Big SUVs have long relied on diesel engines for motive power. But with the popularity of the black pump waning not to mention rising fuel costs the days of the luxury diesel SUV are numbered. \r\nElect… [+17874 chars]"
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "Anuj Tiwari",
+    "title": "From Ambani To Jeff Bezos: Here's How Much These Richest People In The World Made Per Minute",
+    "description": "Ever wondered how long it takes a billionaire to earn what they earn in a year? Many people wonder just how much money do the world's richest make in a day or even a minute. It is no secret that Tesla founder and CEO Elon Musk is currently the world's richest…",
+    "url": "https://www.indiatimes.com/trending/social-relevance/mukesh-ambani-to-elon-musk-and-jeff-bezos-how-much-do-billionaires-make-in-a-minute-562442.html",
+    "urlToImage": "https://im.indiatimes.in/content/2022/Feb/how-much-earn_6210bd210b7cd.jpg",
+    "publishedAt": "2022-02-19T09:50:52Z",
+    "content": "Ever wondered how long it takes a billionaire to earn what they earn in a year?Many people wonder just how much money do the world's richest make in a day or even a minute. It is no secret that Tesla… [+4413 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Independent.ie"
+    },
+    "author": "By AP Reporters",
+    "title": "US securities agency denies claims it is harassing Elon Musk",
+    "description": "US securities regulators have responded to allegations that they are harassing Elon Musk, insisting they are following a judge&rsquo;s instructions in trying to speak with the Tesla CEO&rsquo;s lawyers about his posts on Twitter about taking the company priva…",
+    "url": "https://www.independent.ie/world-news/us-securities-agency-denies-claims-it-is-harassing-elon-musk-41362387.html",
+    "urlToImage": "https://www.independent.ie/world-news/37642/41362385.ece/AUTOCROP/w1240h700/ipanews_9cb6176d-95cc-4fee-819b-9ee03dbed5f3_1",
+    "publishedAt": "2022-02-19T09:35:33Z",
+    "content": "US securities regulators have responded to allegations that they are harassing Elon Musk, insisting they are following a judges instructions in trying to speak with the Tesla CEOs lawyers about his p… [+2135 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tech Xplore"
+    },
+    "author": "Science X staff",
+    "title": "Musk donates satellite gear to reconnect Tonga",
+    "description": "Tonga says space entrepreneur and Tesla founder Elon Musk has donated 50 satellite terminals to help the volcano-damaged Pacific island reconnect with the world.",
+    "url": "https://techxplore.com/news/2022-02-musk-donates-satellite-gear-reconnect.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/2022/tongas-telecommunicati.jpg",
+    "publishedAt": "2022-02-19T09:26:27Z",
+    "content": "Tonga says space entrepreneur and Tesla founder Elon Musk has donated 50 satellite terminals to help the volcano-damaged Pacific island reconnect with the world.\r\nTonga's telecommunications system ha… [+1418 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Seeking Alpha"
+    },
+    "author": "Scott Galloway",
+    "title": "Apple: Thief",
+    "description": "A trillion in revenue will require stealing markets from incumbents. One company is best poised to ascend to the Iron Throne of theft.",
+    "url": "https://seekingalpha.com/article/4488550-apple-aapl-stock-thief",
+    "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313338119/image_1313338119.jpg?io=getty-c-w750",
+    "publishedAt": "2022-02-19T09:17:00Z",
+    "content": "fazon1/iStock Editorial via Getty Images\r\nRound numbers have no inherent meaning - they’re a consequence of 10 fingers. But they provide a benchmark, a way to focus our observations. The last few yea… [+17412 chars]"
+    },
+    {
+    "source": {
+    "id": "rt",
+    "name": "RT"
+    },
+    "author": "RT",
+    "title": "US regulator denies ‘muzzling’ Elon Musk",
+    "description": "US Securities and Exchange Commission has denied claims that it is harassing Tesla CEO Elon Musk with a probe over his Twitter posts Read Full Article at RT.com",
+    "url": "https://www.rt.com/business/549942-us-sec-denies-muzzling-elon-musk/",
+    "urlToImage": "https://cdni.rt.com/files/2022.02/article/62109c75203027213c037a6d.jpg",
+    "publishedAt": "2022-02-19T08:49:57Z",
+    "content": "The US Securities and Exchange Commission (SEC) has denied allegations that the regulator is harassing electric carmaker Tesla’s CEO, Elon Musk, with an investigation over his Twitter posts.\r\nThe pro… [+2163 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "This is Money"
+    },
+    "author": "Rob Hull",
+    "title": "New car shortages: EVs you can get right now and those delayed for months",
+    "description": "New market analysis has revealed which battery cars are hit by the biggest lead times and which you can pick up with almost immediate effect.",
+    "url": "https://www.thisismoney.co.uk/money/cars/article-10523667/New-car-shortages-EVs-right-delayed-months.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2022/02/17/15/54321721-0-image-a-5_1645113197446.jpg",
+    "publishedAt": "2022-02-19T08:25:51Z",
+    "content": "With the semiconductor shortage restricting supply of new cars arriving in Britain there are some models that you won't be able to get your hands on for months - and in some cases years.\r\nThis is esp… [+7107 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Seeking Alpha"
+    },
+    "author": "Nick Ackerman",
+    "title": "NCZ: Higher Yield And Attractively Discounted, But Some Concerns",
+    "description": "NCZ and its sister fund NCV share many similarities as convertible and high-yield bond investing funds.",
+    "url": "https://seekingalpha.com/article/4488541-ncz-higher-yield-and-attractively-discounted-but-some-concerns",
+    "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313926585/image_1313926585.jpg?io=getty-c-w750",
+    "publishedAt": "2022-02-19T07:51:31Z",
+    "content": "cihatatceken/E+ via Getty Images\r\nWritten by Nick Ackerman, co-produced by Stanford Chemist\r\n Virtus AllianzGI Convertible &amp; Income Fund II (NCZ) is quite similar to its sister fund; Virtus Allia… [+13799 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "Tech Desk",
+    "title": "Here’s why Dogecoin developer is stepping away from the crypto project",
+    "description": "Dogecoin was created in 2013 by software engineers Billy Markus and Jackson Palmer as a faster but “fun” alternative to Bitcoin.",
+    "url": "https://indianexpress.com/article/technology/crypto/heres-why-dogecoin-developer-is-stepping-away-from-the-crypto-project-7781044/",
+    "urlToImage": "https://images.indianexpress.com/2021/12/Dogecoin-1200_wikimedia-commons.jpg",
+    "publishedAt": "2022-02-19T07:45:20Z",
+    "content": "Ross Nicoll, a core developer of the Dogecoin Foundation, announced that he is stepping away from the meme cryptocurrency project and will remain an advisor, citing “overwhelming” stress and a potent… [+2283 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Business Today"
+    },
+    "author": "Associated Press",
+    "title": "US securities agency rejects claims it's harassing Elon Musk",
+    "description": "Early Thursday, lawyers for Musk sent a letter to US District Judge accusing the SEC of harassing him.",
+    "url": "https://www.businesstoday.in/latest/world/story/us-securities-agency-rejects-claims-its-harassing-elon-musk-323193-2022-02-19",
+    "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202202/ezgif-sixteen_nine_95.jpg",
+    "publishedAt": "2022-02-19T06:55:39Z",
+    "content": "US securities regulators responded to allegations that they are harassing Elon Musk, writing in a letter that they're following a judge's instructions in trying to speak with the Tesla CEO's lawyers … [+2187 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "feedfeeder",
+    "title": "After Tesla CEO Elon Musk alleged 'unrelenting investigation,' SEC pushes back - CNBC",
+    "description": "After Tesla CEO Elon Musk alleged 'unrelenting investigation,' SEC pushes backCNBC Tesla and Elon Musk accuses US Securities and Exchange for 'unrelenting' harassment | English NewsWION Elon Musk’s Accusation of Harassment Countered by SECThe Wall Street Jour…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=158855249",
+    "urlToImage": null,
+    "publishedAt": "2022-02-19T06:52:38Z",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Lwn.net"
+    },
+    "author": null,
+    "title": "Thoughts on Intel software-defined silicon",
+    "description": "People are attracted to free software for a number of reasons, including\nprice, overall quality, community support, and available features.  But,\nfor many of us, the \nvalue of free software is to be found in its ability to allow us to\nactually own and maintai…",
+    "url": "https://lwn.net/SubscriberLink/884876/ba79f0b75e086321/",
+    "urlToImage": null,
+    "publishedAt": "2022-02-19T06:44:41Z",
+    "content": "<table><tr><td>Welcome to LWN.net\r\nThe following subscription-only content has been made available to you \r\nby an LWN subscriber. Thousands of subscribers depend on LWN for the \r\nbest news from the L… [+6659 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Seeking Alpha"
+    },
+    "author": "PendragonY",
+    "title": "Evaluating CEFs: CHI - Now Is A Good Time To Nibble",
+    "description": "CHI CEF has a yield of 8.6%. Click here to see why I think small buys on down days will be attractive.",
+    "url": "https://seekingalpha.com/article/4488524-evaluating-cefs-chi-good-time-to-nibble",
+    "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/585054838/image_585054838.jpg?io=getty-c-w750",
+    "publishedAt": "2022-02-19T06:40:22Z",
+    "content": "damedeeso/iStock via Getty Images\r\nInvestment Thesis\r\n This article will take a look at Calamos Convertible Opportunities &amp; Income Fund (CHI).\r\n What I look for in a CEF is a stable flow of incom… [+10410 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Juancole.com"
+    },
+    "author": "Juan Cole",
+    "title": "Replaced by Mega-battery: Massive 3 GW Coal Plant in Australia forced to Close by Cheaper Wind and Solar",
+    "description": "Ann Arbor (Informed Comment) - The Australian firm Orion Energy in New South Wales is closing its massive, nearly 3 gigawatt Eraring coal plant eight years early. The largest coal plant in the country will be gone by 2025 instead of 2032. This development is …",
+    "url": "https://www.juancole.com/2022/02/replaced-australia-cheaper.html",
+    "urlToImage": "https://www.juancole.com/images/2022/02/replaced-by-mega-battery-massive.jpg",
+    "publishedAt": "2022-02-19T06:40:02Z",
+    "content": "Ann Arbor (Informed Comment) – The Australian firm Orion Energy in New South Wales is closing its massive, nearly 3 gigawatt Eraring coal plant eight years early. The largest coal plant in the countr… [+3358 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "Bbc News",
+    "title": "Storm Eunice leaves thousands of homes without power",
+    "description": "Work is under way to restore power to those cut off after one of the worst UK storms in decades.",
+    "url": "https://www.bbc.com/news/uk-60442797",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9F25/production/_123314704_073967447.jpg",
+    "publishedAt": "2022-02-19T06:35:34Z",
+    "content": "Media caption, Watch videos showing the impact of Storm Eunice - crashing waves, torn roofs and fallen trees\r\nEnergy companies are working to restore power to hundreds of thousands of homes after one… [+5124 chars]"
+    }
+    ]
+    }
